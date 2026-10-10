@@ -1,6 +1,6 @@
 {
   "name": "@splitstream/sdk",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Thin, typed client for the deployed splitstream-core contract. Browser-safe: no CLI-only dependencies.",
   "license": "MIT",
   "repository": {
