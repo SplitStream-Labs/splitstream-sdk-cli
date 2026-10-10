@@ -17,8 +17,9 @@ Client tooling for SplitStream, the pro-rata contributor payout vault on Stellar
 ![CI](https://github.com/SplitStream-Labs/splitstream-sdk-cli/actions/workflows/ci.yml/badge.svg)
 ![Node](https://img.shields.io/badge/node-24-green)
 ![License](https://img.shields.io/github/license/SplitStream-Labs/splitstream-sdk-cli)
+[![npm](https://img.shields.io/npm/v/@splitstream/sdk)](https://www.npmjs.com/package/@splitstream/sdk)
 
-[Docs](https://splitstream.gitbook.io/splitstream-sdk-cli/) · [Testnet Explorer](https://stellar.expert/explorer/testnet/contract/CCC2LP2LOYZOLA2JW4C4K7JMR3TRJZIKHDSQYSFJ3R3MCDJLVBT3PZOC) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md)
+[SDK on npm](https://www.npmjs.com/package/@splitstream/sdk) · [Docs](https://splitstream.gitbook.io/splitstream-sdk-cli/) · [Testnet Explorer](https://stellar.expert/explorer/testnet/contract/CCC2LP2LOYZOLA2JW4C4K7JMR3TRJZIKHDSQYSFJ3R3MCDJLVBT3PZOC) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md)
 
 ## What it is
 
@@ -121,6 +122,12 @@ There are exactly two ways to sign, and neither of them is "paste a secret key i
 A mainnet claim therefore requires a hardware wallet, by construction.
 
 ## Using the SDK
+
+Install the published package ([view on npm](https://www.npmjs.com/package/@splitstream/sdk)):
+
+```bash
+npm install @splitstream/sdk
+```
 
 ```ts
 import { SplitStreamClient } from '@splitstream/sdk';
