@@ -3,6 +3,16 @@
   "version": "0.1.0",
   "description": "Thin, typed client for the deployed splitstream-core contract. Browser-safe: no CLI-only dependencies.",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SplitStream-Labs/splitstream-sdk-cli.git",
+    "directory": "packages/sdk"
+  },
+  "homepage": "https://github.com/SplitStream-Labs/splitstream-sdk-cli#readme",
+  "bugs": "https://github.com/SplitStream-Labs/splitstream-sdk-cli/issues",
+  "publishConfig": {
+    "access": "public"
+  },
   "type": "module",
   "engines": {
     "node": ">=20"
