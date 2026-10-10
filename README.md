@@ -14,9 +14,9 @@ Client tooling for SplitStream, the pro-rata contributor payout vault on Stellar
 | [splitstream-actions] | The GitHub→chain bridge that computes each cycle's payout manifest and relays its Merkle root on-chain |
 | **splitstream-sdk-cli** | **This repo** — the client SDK and CLI contributors claim with and maintainers simulate and report with |
 
-![CI](https://github.com/Oyinkans0la12/splitstream-sdk-cli/actions/workflows/ci.yml/badge.svg)
+![CI](https://github.com/SplitStream-Labs/splitstream-sdk-cli/actions/workflows/ci.yml/badge.svg)
 ![Node](https://img.shields.io/badge/node-24-green)
-![License](https://img.shields.io/github/license/Oyinkans0la12/splitstream-sdk-cli)
+![License](https://img.shields.io/github/license/SplitStream-Labs/splitstream-sdk-cli)
 
 [Docs](https://splitstream.gitbook.io/splitstream-sdk-cli/) · [Testnet Explorer](https://stellar.expert/explorer/testnet/contract/CCC2LP2LOYZOLA2JW4C4K7JMR3TRJZIKHDSQYSFJ3R3MCDJLVBT3PZOC) · [Contributing](CONTRIBUTING.md) · [Security](SECURITY.md)
 
@@ -302,11 +302,11 @@ These are deliberate, documented decisions — each is called out where it bites
 
 ## Contributing
 
-Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for the build/test workflow and PR expectations, and [SECURITY.md](SECURITY.md) for the security model and responsible-disclosure process. Found a bug or have a feature idea? [Open an issue](https://github.com/Oyinkans0la12/splitstream-sdk-cli/issues).
+Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for the build/test workflow and PR expectations, and [SECURITY.md](SECURITY.md) for the security model and responsible-disclosure process. Found a bug or have a feature idea? [Open an issue](https://github.com/SplitStream-Labs/splitstream-sdk-cli/issues).
 
 ## Contributors
 
-[![Contributors](https://contrib.rocks/image?repo=Oyinkans0la12/splitstream-sdk-cli)](https://github.com/Oyinkans0la12/splitstream-sdk-cli/graphs/contributors)
+[![Contributors](https://contrib.rocks/image?repo=SplitStream-Labs/splitstream-sdk-cli)](https://github.com/SplitStream-Labs/splitstream-sdk-cli/graphs/contributors)
 
 ## Community
 
@@ -336,9 +336,9 @@ Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for the bui
     <td align="left">
       <strong>Contact</strong>
       <br />
-      <a href="https://github.com/Oyinkans0la12/splitstream-sdk-cli/issues">GitHub Issues</a> — primary channel for bugs, feature requests, and design discussion
+      <a href="https://github.com/SplitStream-Labs/splitstream-sdk-cli/issues">GitHub Issues</a> — primary channel for bugs, feature requests, and design discussion
       <br />
-      🔒 For vulnerabilities, use a <a href="https://github.com/Oyinkans0la12/splitstream-sdk-cli/security/advisories/new">private security advisory</a> per SECURITY.md
+      🔒 For vulnerabilities, use a <a href="https://github.com/SplitStream-Labs/splitstream-sdk-cli/security/advisories/new">private security advisory</a> per SECURITY.md
     </td>
   </tr>
 </table>
@@ -347,5 +347,5 @@ Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for the bui
 
 This project is licensed under the MIT License — see [LICENSE](./LICENSE) for details.
 
-[splitstream-core]: https://github.com/Oyinkans0la12/splitstream-core
-[splitstream-actions]: https://github.com/Oyinkans0la12/splitstream-actions
+[splitstream-core]: https://github.com/SplitStream-Labs/splitstream-core
+[splitstream-actions]: https://github.com/SplitStream-Labs/splitstream-actions
